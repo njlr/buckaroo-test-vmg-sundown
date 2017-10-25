@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-vmg-sundown",
+  "dependencies": {
+    "vmg/sundown": "0.1.0",
+    "google/gtest": "1.8.0"
+  }
+}
